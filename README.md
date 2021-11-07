@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **muzafferkonal@hotmail.com**
 
-- 📄 Know about my experiences [Muzaffer_Berşan_Konal_cv.pdf](https://github.com/bersan-konal/bersan-konal/files/7123287/Muzaffer_Bersan_Konal_cv.pdf)
+- 📄 Know about my experiences [Muzaffer_Bersan_Konal_resume.pdf](https://github.com/bersan-konal/bersan-konal/files/7492655/Muzaffer_Bersan_Konal_resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
