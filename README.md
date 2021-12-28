@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **IOS development with Swift**
 
-- 📫 How to reach me **muzafferkonal@hotmail.com**
+- 📫 How to reach me **konal.bersan@gmail.com**
 
 - 📄 Know about my experiences [Muzaffer_Bersan_Konal_resume.pdf](https://github.com/bersan-konal/bersan-konal/files/7492655/Muzaffer_Bersan_Konal_resume.pdf)
 
