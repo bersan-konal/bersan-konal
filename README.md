@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzaffer Berşan</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🌱 I’m currently learning **IOS development with Swift**
+- I am iOS developer at Norm Digital.
 
 - 📫 How to reach me **konal.bersan@gmail.com**
 
